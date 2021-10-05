@@ -14,6 +14,14 @@
 
 ### 題目:還沒想
 
+Emphasis, aka italics, with asterisks or underscores.
+
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
+
+Combined emphasis with **asterisks** and *underscores*.
+
+Strikethrough uses two tildes. ~~Scratch this~~.
+
 階層式(>>):
 >System_Analysis_Class
 >>System_Analysis_Class
