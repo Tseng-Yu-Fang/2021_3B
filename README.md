@@ -14,6 +14,28 @@
 
 ### 題目:還沒想
 
+階層式(>>):
+>System_Analysis_Class
+>>System_Analysis_Class
+``
+## 項目
++ 一
++ 二
++ 三
+
+## 有序項目
+1.一
+2.二
+3.三
+
+## icon
+## 🆙
+
+## 字體
+**粗**
+*斜*
+~~刪除~~
+
 ## Code
 ```html
   <div class="modal modal-backdrop-bg bd-example-modal-lg" id="exampleModal2.1" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true" style="width:100%">
