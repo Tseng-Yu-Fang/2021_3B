@@ -19,22 +19,22 @@
 >>System_Analysis_Class
 ``
 ## 項目
-+ 一
-+ 二
-+ 三
+>+ 一
+>+ 二
+>+ 三
 
 ## 有序項目
-1.一
-2.二
-3.三
+>1.一
+>2.二
+>3.三
 
 ## icon
-## 🆙
+>## 🆙
 
 ## 字體
-**粗**
-*斜*
-~~刪除~~
+>**粗**
+>*斜*
+>~~刪除~~
 
 ## Code
 ```html
@@ -51,7 +51,7 @@
 </div>
 ```
 
-[youtube](https://www.youtube.com/)
+[video](https://www.youtube.com/watch?v=-oEQ2BoeY9c)
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
 ![dog](https://github.com/Tseng-Yu-Fang/2021_3B/blob/main/1.jpg "dog")
 ## *[高科大](https://www.nkust.edu.tw/)*
