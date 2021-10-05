@@ -14,7 +14,7 @@
 
 ### 題目:還沒想
 
-##Code
+## Code
 ```html
   <div class="modal modal-backdrop-bg bd-example-modal-lg" id="exampleModal2.1" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true" style="width:100%">
     <div class="modal-dialog modal-lg">
