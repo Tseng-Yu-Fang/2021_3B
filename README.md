@@ -14,6 +14,21 @@
 
 ### 題目:還沒想
 
+##Code
+```html
+  <div class="modal modal-backdrop-bg bd-example-modal-lg" id="exampleModal2.1" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true" style="width:100%">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content" style="margin: 0px 0px 0px -9px;">
+            <div class="modal-body" style="padding: 190px 0px 190px 0px; border-radius: 4px;width:100%;">
+                <div id="CenterSet">
+                    <img src="~/Content/images/loading.gif" id="shape-ex6-img" style="width: 100px; height: 100px; display: block; margin: auto; ">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+```
+
 [youtube](https://www.youtube.com/)
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
 ![dog](https://github.com/Tseng-Yu-Fang/2021_3B/blob/main/1.jpg "dog")
